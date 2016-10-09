@@ -1,2 +1,5 @@
 # hello-world
-Intro to GitHub
+
+Hi,
+I am finally trying to make use of GitHub.
+
