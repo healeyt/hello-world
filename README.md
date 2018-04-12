@@ -1,5 +1,4 @@
 # hello-world
 
-Hi,
-I am finally trying to make use of GitHub.
+For a great introduction to the use of Git and GitHub, see **Git & GitHub Tutorial for Beginners** by **The Net Ninja**.
 
